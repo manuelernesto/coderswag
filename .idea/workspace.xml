@@ -11,19 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fbb0e33-1889-4190-b8cf-c69f7d2fd20a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Controller/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Controller/MainActivity.kt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -87,13 +83,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryAdapter.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CategoryAdapter.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            <state relative-caret-position="529">
+              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="e#51#367#0" expanded="true" />
+                <element signature="e#566#1412#0" expanded="false" />
+                <element signature="e#1459#1502#0" expanded="false" />
+                <element signature="e#1552#1576#0" expanded="false" />
+                <element signature="e#1611#1649#0" expanded="false" />
+                <element signature="e#1672#1767#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -2258,10 +2259,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Model/Product.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Model/Category.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/category_list_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Controller/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt" />
       </list>
     </option>
   </component>
@@ -2549,7 +2550,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -2590,16 +2593,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-          <folding>
-            <element signature="e#51#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Controller/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -2626,6 +2619,21 @@
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/io/github/manuelernesto/coderswag/Adapter/CategoryAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="e#51#367#0" expanded="true" />
+            <element signature="e#566#1412#0" expanded="false" />
+            <element signature="e#1459#1502#0" expanded="false" />
+            <element signature="e#1552#1576#0" expanded="false" />
+            <element signature="e#1611#1649#0" expanded="false" />
+            <element signature="e#1672#1767#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
